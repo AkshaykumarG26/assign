@@ -1,0 +1,24 @@
+{
+  "recipe": [
+    {
+      "form": {
+        "recipeTitle": "Biryani",
+        "ingredients": "rice, masala, chicken, onion, garlic, gignger, corriondar",
+        "time": "2 Hour",
+        "imgUrl": "nothing",
+        "instructions": "boil rice and marinate chicken and then cook and then mix the chicken and rice"
+      },
+      "id": 1
+    },
+    {
+      "form": {
+        "recipeTitle": "Dal Tadka",
+        "ingredients": "mung dal, red chili, salt, water, coriander, ginger, garlic, water",
+        "time": "45 Minutes",
+        "imgUrl": "nothing",
+        "instructions": "Boil the dal and then mixture it and then take the pan pour some oil and then add chopped onion adn then add tomatos and then add some red chilis and then pour dal into it let dal boil for 5 mins"
+      },
+      "id": 2
+    }
+  ]
+}

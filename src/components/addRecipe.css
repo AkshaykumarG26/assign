@@ -1,0 +1,11 @@
+input{
+    width: 100px;
+    margin: 10px;
+    margin-left: 50px;
+
+}
+
+body{
+    border: 2px solid black;
+    width: 200px;
+}
